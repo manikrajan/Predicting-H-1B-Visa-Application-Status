@@ -1,0 +1,1 @@
+The code for this project depends heavily on pyspark. Hence pyspark package is a must to run this code. Cross validation models like Decision tree classifier and Random Forest Classifier built in this project needs high performance computing to run the models . 
