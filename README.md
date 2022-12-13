@@ -65,3 +65,12 @@ Models were optimized and tuned using hyperparameter tuning and cross-validation
 The performance of the models was evaluated against the test data. Accuracy in all our models is almost the same, 96.2%. The Random Forest Classifier had the perfect precision, 1.0, while others were also close. But the confusion matrix for the Random Forest Classifier had zeros for all the classes except for class 1 (Certified), which indicated an imbalance in the dataset.
 
 ![Alt text](/table5.jpg?raw=true "Title")
+
+## Conclusions and Future Research
+
+The main focus of building various classification models is to construct a method to predict the approval rate of the H-1B visa petitions. 
+In particular, we built logistic regression, decision tree, and Random Forest models and compared their performance. We found that the accuracy in all our models is almost the same, 96.2%. Furthermore, the Random Forest Classifier had the perfect precision, 1.0, while others were also close. But the confusion matrix for the Random Forest Classifier had zeros for all the classes except for class 1 (Certified), which indicated an imbalance in the dataset.
+For future research, we can extend this research to build models to predict the Green Card approval rate as well as more methodologies to, especially to achieve a higher accuracy rate for the data with imbalanced predictor variables.
+
+
+
